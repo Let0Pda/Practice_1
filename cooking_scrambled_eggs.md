@@ -1,3 +1,5 @@
+Markdown
+
 # Классическая яичница‑болтунья
 
 ![Выглядит потрясающе](https://pigmine.ru/wp-content/uploads/e/7/8/e78fb35ac51fbdeddd1cb3f19c9fcaa6.jpeg)
